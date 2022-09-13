@@ -17,3 +17,9 @@ Foi a desenvolvido:
 ---
 
 ## Aula 2
+
+Foi a desenvolvido:
+
+- Web - instalação do TailwindCSS, criando a página home
+
+- Mobile - identidade visual, components Background,  Heading, Loading e CardGame, listando os itens por um component de map
