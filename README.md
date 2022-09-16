@@ -16,6 +16,7 @@ Foi a desenvolvido:
 
 ---
 
+
 ## Aula 2
 
 Foi a desenvolvido:
@@ -23,3 +24,13 @@ Foi a desenvolvido:
 - Web - instalação do TailwindCSS, criando a página home
 
 - Mobile - identidade visual, components Background,  Heading, Loading e CardGame, listando os itens por um component de map
+
+---
+## Aula 3
+Foi a desenvolvido:
+
+O backend da aplicação, utilizando o express e prisma client para fazer a integração.
+
+---
+## Aula 4
+Foi a desenvolvido:
