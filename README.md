@@ -34,3 +34,7 @@ O backend da aplicação, utilizando o express e prisma client para fazer a inte
 ---
 ## Aula 4
 Foi a desenvolvido:
+
+ - Web - component apps e realizando fetch para nosso servidor
+
+ 
