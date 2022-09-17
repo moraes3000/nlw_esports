@@ -37,4 +37,6 @@ Foi a desenvolvido:
 
  - Web - component apps e realizando fetch para nosso servidor
 
+ - Mobile - Criando abrindo o jogo e carregando os ADS, instalação de biblioteca de icones e transição de paginas
+
  
